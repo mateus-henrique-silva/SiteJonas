@@ -22,10 +22,8 @@
 }
 
 .line_text{
-    height:5px;
-    width:100px;
-    border-radius: 10px;
-    background: #f33c45;;
+    height:20px;
+    width
 }
 
 @media (max-width: 999px) {

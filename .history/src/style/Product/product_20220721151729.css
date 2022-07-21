@@ -22,9 +22,9 @@
 }
 
 .line_text{
-    height:5px;
+    height:10px;
     width:100px;
-    border-radius: 10px;
+    border-image: ;
     background: #f33c45;;
 }
 

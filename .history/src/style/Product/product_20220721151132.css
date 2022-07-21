@@ -21,23 +21,13 @@
     margin-bottom:100px;
 }
 
-.line_text{
-    height:5px;
-    width:100px;
-    border-radius: 10px;
-    background: #f33c45;;
-}
-
 @media (max-width: 999px) {
    
     .space-list{
         width: 100vw;
         display: block;
+       jus
     
-    
-    }
-    .card{
-        margin-bottom:20px;
     }
 
 }
