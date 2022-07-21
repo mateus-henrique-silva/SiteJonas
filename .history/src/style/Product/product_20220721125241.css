@@ -1,0 +1,25 @@
+.product{
+    width: 100%;
+}
+.product h1 {
+    text-align: center;
+    color:#f33c45;
+
+}
+
+.section_product{
+    width: 100%;
+    height:100%;
+    display: flex;
+}
+
+.space-list{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom:100px;
+}
+
+.card .btn .btn-primary { 
+    background-color:#f33c45 !important;
+}
